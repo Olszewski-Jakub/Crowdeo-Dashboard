@@ -1,4 +1,4 @@
-# Crowd Tracking using BLE on Raspberry Pi Pico W
+# (Work in progress)Crowd Tracking using BLE on Raspberry Pi Pico W
 
 This project focuses on the development of a crowd tracking system using Bluetooth Low Energy (BLE) technology in conjunction with the Raspberry Pi Pico W microcontroller. The primary objective is to create a reliable solution for accurately monitoring and tracking the movement of individuals within a designated area.
 
